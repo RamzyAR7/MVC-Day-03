@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVC_Day_03.Models.Department>
+
+@{
+    ViewData["Title"] = "Show All Departments";
+}
+
+<h2 class="my-4">Show All Departments</h2>
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Name</th>
+            <th>Manager Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Name</td>
+                <td>@department.MgrName</td>
+                <td>
+                    <a class="btn btn-info" asp-action="ShowDetails" asp-route-id="@department.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Add">Add New Department</a>

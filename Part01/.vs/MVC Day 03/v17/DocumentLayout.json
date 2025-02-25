@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\views\\department\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\viewmodels\\departmentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\viewmodels\\departmentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day 03\\part01\\mvc day 03\\viewmodels\\adddepartmentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AAA66D-1C21-46D2-889B-4E7D08D99561}|MVC Day 03\\MVC Day 03.csproj|solutionrelative:mvc day 03\\viewmodels\\adddepartmentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\ViewModels\\DepartmentViewModels.cs",
+              "RelativeDocumentMoniker": "MVC Day 03\\ViewModels\\DepartmentViewModels.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\ViewModels\\DepartmentViewModels.cs",
+              "RelativeToolTip": "MVC Day 03\\ViewModels\\DepartmentViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:01:21.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "MVC Day 03\\Views\\Department\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\ShowDetails.cshtml",
+              "RelativeToolTip": "MVC Day 03\\Views\\Department\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:00:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "MVC Day 03\\Views\\Department\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\ShowAll.cshtml",
+              "RelativeToolTip": "MVC Day 03\\Views\\Department\\ShowAll.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T17:59:13.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDepartmentViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\ViewModels\\AddDepartmentViewModels.cs",
+              "RelativeDocumentMoniker": "MVC Day 03\\ViewModels\\AddDepartmentViewModels.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\ViewModels\\AddDepartmentViewModels.cs",
+              "RelativeToolTip": "MVC Day 03\\ViewModels\\AddDepartmentViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:45:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC Day 03\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC Day 03\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:36:51.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC Day 03\\Views\\Department\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day 03\\Part01\\MVC Day 03\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "MVC Day 03\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T17:33:00.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
